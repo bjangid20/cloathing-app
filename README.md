@@ -1,1 +1,1 @@
-# cloathing-app
+# clothing-app
